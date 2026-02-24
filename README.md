@@ -23,6 +23,6 @@ This project demonstrates dynamic memory handling, linked list implementation, a
 - Modular Programming
 - Custom Data Structures
 
-## ⚙️ How to Compile
+##  How to Compile
 
 Using Makefile:
